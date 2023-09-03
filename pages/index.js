@@ -1,7 +1,7 @@
 // Color Blast!
 // License MIT
 // © 2014 Nate Wiley
-
+alert ('Ты кто ?')
 (function(window){
 
     var Game = {
